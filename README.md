@@ -152,6 +152,10 @@
 
 <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=vigneshwaranwh&theme=react-dark">
 
+## Github Snake
+
+![snake gif](https://github.com/vigneshwaranwh/vigneshwaranwh/blob/output/github-contribution-grid-snake.gif)
+
 ## Profile Views & Followers
 
 <img src = "https://komarev.com/ghpvc/?username=your-github-vigneshwaranwh&style=for-the-badge"> <img src="https://img.shields.io/github/followers/vigneshwaranwh?label=Followers&style=for-the-badge">
